@@ -10,8 +10,11 @@ package com.mycompany.praktek01;
  */
 public class MahasiswaAksi {
     public static void main (string[] args){
-        Mahasiswa Harry = new Mahasiswa ();
-    }
+        Mahasiswa Diah = new Mahasiswa ();
+        
+        Diah.nama= "Diahhh";
+        Diah.NPM= "2110010058";
+        Diah.IPK=3.9;
             
     
 }
