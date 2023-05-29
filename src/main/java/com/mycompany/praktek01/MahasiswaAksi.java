@@ -10,7 +10,7 @@ package com.mycompany.praktek01;
  */
 public class MahasiswaAksi {
     public static void main (string[] args){
-        
+        Mahasiswa Harry = new Mahasiswa ();
     }
             
     
