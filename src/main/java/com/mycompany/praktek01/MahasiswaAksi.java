@@ -15,6 +15,8 @@ public class MahasiswaAksi {
         Diah.nama= "Diahhh";
         Diah.NPM= "2110010058";
         Diah.IPK=3.9;
+        
+        Diah.cetakInfo();
             
     
 }
